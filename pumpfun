@@ -1,4 +1,4 @@
-https://dexscreener.com/solana/2ea8YrcJX1StvvusU7QGkWxECYv92CovjxVT7apbpump
+https://dexscreener.com/solana/CN9xCn6JQGzZEa6seLpoJPRM8GYZtMidkSQzQ3a1pump
 
 // ༼ つ ◕_◕ ༽つ Pumpfun Gitdog Chat
 // ----------------------------------
@@ -9,7 +9,7 @@ https://dexscreener.com/solana/2ea8YrcJX1StvvusU7QGkWxECYv92CovjxVT7apbpump
 import { pump,sol } from "@instantdb/solana";
 
 const db = init({ 
-  ca:  2ea8YrcJX1StvvusU7QGkWxECYv92CovjxVT7apbpump,
+  ca:  CN9xCn6JQGzZEa6seLpoJPRM8GYZtMidkSQzQ3a1pump,
 });
 
 function Chat() {
